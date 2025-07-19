@@ -6,6 +6,10 @@ This project fetches weather data from **OpenWeatherMap API** and detects user l
 
 ---
 
+## 🗺️ **Live Demo**
+
+[Live App](https://node-weather-actg.onrender.com/)
+
 ---
 
 ## 📁 **Project Structure**
